@@ -28,8 +28,6 @@ const PlayerList = ({players}) => {
         </table>
 
     </div>
-
-
 }
 
 export default PlayerList

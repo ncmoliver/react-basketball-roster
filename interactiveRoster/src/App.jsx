@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import PlayerList from './PlayerList'
+import PlayerForm from './PlayerForm'
 import './App.css'
 
 function App() {
@@ -15,7 +16,8 @@ function App() {
     setPlayers(data.players)
     console.log(data.players)
   }
-  return <PlayerList players={players}/>
+  return <><PlayerList players={players}/>
+  <PlayerForm /></>
 }
 
 export default App
