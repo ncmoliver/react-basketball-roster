@@ -18,10 +18,19 @@ This is one of my first personal projects. The goal is to showcase the different
 
 2. Start backend
 
-- cd into the backend folder
+- cd into 'backend' folder
 - In the terminal:
-  - MAC OS: `run python3 main.py`x
+  MAC OS:
+- run `python3 main.py`
+  Windows:
+- run `python main.py`
 
 3. Start frontend
+
+- cd into 'interactiveRoster' folder
+- **Split** into a new terminal:
+  MAC OS run:
+- `npm install`
+- `npm run dev`
 
 ##
