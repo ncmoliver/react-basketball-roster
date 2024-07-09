@@ -1,6 +1,6 @@
 # interactive-basketball-roster
 
-<img src="./images/readmeLogo.png" width="700">
+<img src="./images/readmeLogo.png" width="700" height="500">
 
 Front end React app. with a Python Flask backend.
 
