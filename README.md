@@ -6,7 +6,7 @@ Front end React app. with a Python Flask backend.
 
 ## Overview
 
-![Static Badge](https://img.shields.io/badge/Workflow%20Status%20-%20In%20progress%20-%20orange)⏐
+![Static Badge](https://img.shields.io/badge/Workflow%20Status%20-%20In%20progress%20-%20orange)
 ![Static Badge](https://img.shields.io/badge/Made%20with%20-%20black)
 ![Static Badge](https://img.shields.io/badge/PYTHON%20-%20gold)
 ![Static Badge](https://img.shields.io/badge/REACT%20-%20skyblue)  
