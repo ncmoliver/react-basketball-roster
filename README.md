@@ -6,7 +6,7 @@ Front end React app. with a Python Flask backend.
 
 ## Overview
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![In Process](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)  
 This is one of my first personal projects. The goal is to showcase the different languages I have learned over the years. The Interactive Basketball Roster is a program that allows you to keep up with your basketball team. All-in-one place to access player information, stats, and analysis. The program is built with a React front-end and a Python backend using Flask.
 
 ## Project Files
