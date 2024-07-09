@@ -1,9 +1,11 @@
 import {useState} from "react"
 
 const PlayerForm = () => {
-    const [firstName, setFirstName] = useState("")
-    const [lastName, setLastName] = useState("")
-    const [email, setEmail] = useState("")
+    const [firstName, setFirstName] = useState("");
+    const [lastName, setLastName] = useState("");
+    const [email, setEmail] = useState("");
+
+    
 
     const onSubmit = async (e) => {
         e.preventDefault()
@@ -31,7 +33,10 @@ const PlayerForm = () => {
             //successful
         }
     }
-    return ( <form onSubmit={onSubmit}>
+
+
+    return ( 
+        <form onSubmit={onSubmit}>
             <div>
                 <label htmlFor="firstName">First Name</label>
                 <input 

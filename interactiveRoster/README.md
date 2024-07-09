@@ -1,8 +1,23 @@
-# React + Vite
+# Interactive Basketball Roster
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is one of my first personal projects. The goal is to showcase the different languages I have learned over the years. The Interactive Basketball Roster is a program that allows you to keep up with your basketball team. All-in-one place to access player information, stats, and analysis. The program is built with a React front-end and a Python backend using Flask.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Files
+
+## How To Run Project
+
+1. Clone Github Repository
+
+- [Interactive Basketball Roster](https://github.com/ncmoliver/react-basketball-roster.git)
+
+2. Start backend
+
+- cd into the backend folder
+- In the terminal:
+  - MAC OS: `run python3 main.py`x
+
+3. Start frontend
+
+##

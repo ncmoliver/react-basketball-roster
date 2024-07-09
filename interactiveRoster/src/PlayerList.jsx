@@ -1,6 +1,6 @@
-import React from "react"
+/* eslint-disable react/prop-types */
 
-const PlayerList = ({players}) => {
+const PlayerList = ({ players }) => {
     return <div>
         <h2>Players</h2>
         <table>
