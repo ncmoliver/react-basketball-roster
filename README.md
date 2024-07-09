@@ -1,8 +1,6 @@
-# react-basketball-roster
+# interactive-basketball-roster
 
 Front end React app. with a Python Flask backend.
-
-# Interactive Basketball Roster
 
 ## Overview
 
@@ -33,4 +31,11 @@ This is one of my first personal projects. The goal is to showcase the different
 - `npm install`
 - `npm run dev`
 
-##
+## Features
+
+| Feature           | Description                                                                                                     |
+| ----------------- | --------------------------------------------------------------------------------------------------------------- |
+| CRUD              | Allows a fully functional API allowing users to create, read, update, and delete                                |
+| Python Backend    | Allows for data consistancy, the app will store data across different sessions                                  |
+| Custom Middleware | This app was create using custom API's created within the 'backend' folder to connect the backend and frontend. |
+| REACT Frontend    | Creates an organized front-end, promoting organization, separated concerns, flexibility.                        |
